@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426202671280",
+    "firebase_url": "https://epliapp-default-rtdb.firebaseio.com",
+    "project_id": "epliapp",
+    "storage_bucket": "epliapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426202671280:android:c1997bbf808c39ea37f375",
+        "android_client_info": {
+          "package_name": "com.mypackage.epliApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426202671280-0a8o5i5l0n65n7sqc8m6udrh7ski95cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgf87XC7NuYdBJPwiqdHBfGyMO7PZptek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426202671280-0a8o5i5l0n65n7sqc8m6udrh7ski95cd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426202671280-134taaotnq72q1frm1u3gt4hlhldf1va.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mypackage.epliApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426202671280-134taaotnq72q1frm1u3gt4hlhldf1va.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426202671280-134taaotnq72q1frm1u3gt4hlhldf1va</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbj5ktoSINLvyvZIgS1nKTUFtWWawNGQY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426202671280</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mypackage.epliApp</string>
+	<key>PROJECT_ID</key>
+	<string>epliapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>epliapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426202671280:ios:66657c11724728dc37f375</string>
+	<key>DATABASE_URL</key>
+	<string>https://epliapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

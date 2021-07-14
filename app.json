@@ -17,16 +17,35 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true, 
+      "bundleIdentifier": "com.mypackage.epliApp",
+      "googleServicesFile": "./GoogleService-Info.plist"
     },
     "android": {
-      "adaptiveIcon": {
+      "adaptiveIcon":{
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mypackage.epliApp",
+      "googleServicesFile": "./google-services.json"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "web": 
+    {
+      "favicon": "./assets/favicon.png",
+      "config": 
+      {
+        "firebase": 
+        {
+            "apiKey": "AIzaSyBmrvKPukjFRKnJjnCupWnAG88XNLnqkGE",
+            "authDomain": "epliapp.firebaseapp.com",
+            "databaseURL": "https://epliapp-default-rtdb.firebaseio.com",
+            "projectId": "epliapp",
+            "storageBucket": "epliapp.appspot.com",
+            "messagingSenderId": "426202671280",
+            "appId": "1:426202671280:web:b2ae17377a60be3537f375",
+            "measurementId": "G-SSFYK2MWJD"
+        }
+      }
     }
   }
 }
